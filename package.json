@@ -1,0 +1,4 @@
+"scripts": {
+    "dev": "nodemon server.js"
+}
+#will need to go to aniaml_inventory
